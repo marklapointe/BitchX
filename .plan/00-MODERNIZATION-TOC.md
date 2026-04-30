@@ -12,6 +12,8 @@
 
 | # | Document | Description | Status |
 |---|----------|-------------|--------|
+| 0 | [0.1-Modernization-Workflow.md](./0.1-Modernization-Workflow.md) | Agent workflow, task claiming, commit guidelines | ✅ DONE |
+| 0 | [0.2-Modernization-TaskList.md](./0.2-Modernization-TaskList.md) | Detailed task list with 153 tasks | ✅ DONE |
 | 1 | [01-Executive-Summary.md](./01-Executive-Summary.md) | Overview, goals, approach | ✅ DONE |
 | 2 | [02-Security-Audit.md](./02-Security-Audit.md) | Known vulnerabilities and fixes | ✅ DONE |
 | 3 | [03-Rust-Architecture.md](./03-Rust-Architecture.md) | Target Rust architecture | ✅ DONE |

@@ -36,6 +36,8 @@ All plan documents are in the `.plan/` directory:
 | # | File | What It Covers |
 |---|------|----------------|
 | `0.0` | [`.plan/00-MODERNIZATION-TOC.md`](.plan/00-MODERNIZATION-TOC.md) | Master table of contents |
+| `0.1` | [`.plan/0.1-Modernization-Workflow.md`](.plan/0.1-Modernization-Workflow.md) | **READ FIRST** — Agent workflow, task claiming, commit guidelines |
+| `0.2` | [`.plan/0.2-Modernization-TaskList.md`](.plan/0.2-Modernization-TaskList.md) | Detailed task list (153 tasks) with IDs and dependencies |
 | `1.0` | [`.plan/01-Executive-Summary.md`](.plan/01-Executive-Summary.md) | Project overview, goals, rationale |
 | `2.0` | [`.plan/02-Security-Audit.md`](.plan/02-Security-Audit.md) | **Read this second** — all vulnerabilities and fixes |
 | `3.0` | [`.plan/03-Rust-Architecture.md`](.plan/03-Rust-Architecture.md) | Target Rust architecture, module design |
@@ -191,12 +193,14 @@ All plan documents are in the `.plan/` directory:
 For a new agent, read the documents in this order:
 
 1. **This file** (`AGENTS_START_HERE.md`) — You are here
-2. **[`.plan/01-Executive-Summary.md`](.plan/01-Executive-Summary.md)** — The big picture
-3. **[`.plan/02-Security-Audit.md`](.plan/02-Security-Audit.md)** — All vulnerabilities
-4. **[`.plan/03-Rust-Architecture.md`](.plan/03-Rust-Architecture.md)** — Target architecture
-5. **[`.plan/04-Migration-Phases.md`](.plan/04-Migration-Phases.md)** — Migration strategy
-6. **[`.plan/05-Code-Analysis.md`](.plan/05-Code-Analysis.md)** — Source file mapping
-7. **[`.plan/07-IRCv3-Integration.md`](.plan/07-IRCv3-Integration.md)** — IRCv3 extensions (SASL, message tags, A/V)
+2. **[`.plan/0.1-Modernization-Workflow.md`](.plan/0.1-Modernization-Workflow.md)** — **IMPORTANT** — How to claim tasks, commit guidelines
+3. **[`.plan/0.2-Modernization-TaskList.md`](.plan/0.2-Modernization-TaskList.md)** — All 153 tasks with IDs and dependencies
+4. **[`.plan/01-Executive-Summary.md`](.plan/01-Executive-Summary.md)** — The big picture
+5. **[`.plan/02-Security-Audit.md`](.plan/02-Security-Audit.md)** — All vulnerabilities
+6. **[`.plan/03-Rust-Architecture.md`](.plan/03-Rust-Architecture.md)** — Target architecture
+7. **[`.plan/04-Migration-Phases.md`](.plan/04-Migration-Phases.md)** — Migration strategy
+8. **[`.plan/05-Code-Analysis.md`](.plan/05-Code-Analysis.md)** — Source file mapping
+9. **[`.plan/07-IRCv3-Integration.md`](.plan/07-IRCv3-Integration.md)** — IRCv3 extensions (SASL, message tags, A/V)
 
 ---
 
