@@ -1,5 +1,9 @@
 # Detailed Code Analysis
 
+> **Author:** Mark LaPointe <mark@cloudbsd.org>
+>
+> **Sponsorship:** This project is not currently seeking or accepting sponsorships.
+
 ## Source File Inventory
 
 ### Core Files (Critical Path)

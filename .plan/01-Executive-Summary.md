@@ -1,5 +1,9 @@
 # BitchX Modernization: Executive Summary
 
+> **Author:** Mark LaPointe <mark@cloudbsd.org>
+>
+> **Sponsorship:** This project is not currently seeking or accepting sponsorships.
+
 ## Project Overview
 
 **BitchX** is a classic IRC (Internet Relay Chat) client originally written in C in the late 1990s. The codebase shows its age with:

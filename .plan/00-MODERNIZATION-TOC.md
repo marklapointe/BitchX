@@ -1,5 +1,9 @@
 # BitchX Modernization Plan — Table of Contents
 
+> **Author:** Mark LaPointe <mark@cloudbsd.org>
+>
+> **Sponsorship:** This project is not currently seeking or accepting sponsorships.
+>
 > **Project:** BitchX IRC Client Rewrite in Rust
 > **Goal:** Modernize a legacy C IRC client to secure, maintainable Rust code
 > **Environment:** FreeBSD (Linux environment with sudo/su access)

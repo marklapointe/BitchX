@@ -1,5 +1,9 @@
 # Security Audit: BitchX C Codebase
 
+> **Author:** Mark LaPointe <mark@cloudbsd.org>
+>
+> **Sponsorship:** This project is not currently seeking or accepting sponsorships.
+
 ## Critical Security Issues Found
 
 ### 1. Buffer Overflow Vulnerabilities

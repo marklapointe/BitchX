@@ -1,5 +1,9 @@
 # IPC & Database Schema Design
 
+> **Author:** Mark LaPointe <mark@cloudbsd.org>
+>
+> **Sponsorship:** This project is not currently seeking or accepting sponsorships.
+
 ## IPC Architecture
 
 ### Unix Domain Socket Design

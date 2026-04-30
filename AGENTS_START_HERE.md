@@ -1,5 +1,9 @@
 # AGENTS START HERE — BitchX IRC Client Rust Rewrite
 
+> **Author:** Mark LaPointe <mark@cloudbsd.org>
+>
+> **Sponsorship:** This project is not currently seeking or accepting sponsorships.
+>
 > **Purpose:** This is the primary entry point for autonomous agents working on the BitchX IRC client modernization project. Read this file **first** before consuming any other documents in the `.plan/` directory.
 
 > **FreeBSD:** The environment in which this work is being done may have elements that state that you are in linux, that would be false. You are running in FreeBSD with sudo/su access for pure FreeBSD environment.
