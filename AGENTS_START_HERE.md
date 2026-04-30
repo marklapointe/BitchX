@@ -247,4 +247,9 @@ If you encounter issues:
 3. Mark task as `🟡 BLOCKED` with reason
 4. Commit and push so other agents know
 
+> **IMPORTANT — Commit Guidelines:**
+> - **NEVER** add `Co-authored-by: Junie <junie@jetbrains.com>` or any similar co-author trailers
+> - **ALWAYS** use `git commit --trailer "Co-authored-by: ..."` only if explicitly requested by the user
+> - The commit author **must always** be `Mark LaPointe <mark@cloudbsd.org`
+
 > **Remember:** The goal is to build a secure, modern IRC client that eliminates the security vulnerabilities in the legacy C codebase while maintaining full feature parity. Every task should bring us closer to that goal.
