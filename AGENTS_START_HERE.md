@@ -42,6 +42,7 @@ All plan documents are in the `.plan/` directory:
 | `4.0` | [`.plan/04-Migration-Phases.md`](.plan/04-Migration-Phases.md) | **Read this third** — phased migration strategy |
 | `5.0` | [`.plan/05-Code-Analysis.md`](.plan/05-Code-Analysis.md) | Source file inventory, code style issues |
 | `6.0` | [`.plan/06-IPC-Database-Schema.md`](.plan/06-IPC-Database-Schema.md) | SQLite schema, IPC design |
+| `7.0` | [`.plan/07-IRCv3-Integration.md`](.plan/07-IRCv3-Integration.md) | IRCv3 protocol extensions (SASL, message tags, A/V) |
 
 ---
 
@@ -195,6 +196,7 @@ For a new agent, read the documents in this order:
 4. **[`.plan/03-Rust-Architecture.md`](.plan/03-Rust-Architecture.md)** — Target architecture
 5. **[`.plan/04-Migration-Phases.md`](.plan/04-Migration-Phases.md)** — Migration strategy
 6. **[`.plan/05-Code-Analysis.md`](.plan/05-Code-Analysis.md)** — Source file mapping
+7. **[`.plan/07-IRCv3-Integration.md`](.plan/07-IRCv3-Integration.md)** — IRCv3 extensions (SASL, message tags, A/V)
 
 ---
 

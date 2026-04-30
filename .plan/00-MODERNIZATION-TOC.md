@@ -18,6 +18,7 @@
 | 4 | [04-Migration-Phases.md](./04-Migration-Phases.md) | Incremental migration strategy | ✅ DONE |
 | 5 | [05-Code-Analysis.md](./05-Code-Analysis.md) | Detailed code structure analysis | ✅ DONE |
 | 6 | [06-IPC-Database-Schema.md](./06-IPC-Database-Schema.md) | IPC mechanism and data persistence | ✅ DONE |
+| 7 | [07-IRCv3-Integration.md](./07-IRCv3-Integration.md) | IRCv3 protocol extensions (SASL, tags, A/V) | ✅ DONE |
 
 ---
 
