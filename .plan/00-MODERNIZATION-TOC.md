@@ -2,7 +2,7 @@
 
 > **Author:** Mark LaPointe <mark@cloudbsd.org>
 >
-> **Sponsorship:** This project is not currently seeking or accepting sponsorships.
+> **Sponsorship:** None
 >
 > **Project:** BitchX IRC Client Rewrite in Rust
 > **Goal:** Modernize a legacy C IRC client to secure, maintainable Rust code

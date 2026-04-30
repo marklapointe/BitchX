@@ -2,7 +2,7 @@
 
 > **Author:** Mark LaPointe <mark@cloudbsd.org>
 >
-> **Sponsorship:** This project is not currently seeking or accepting sponsorships.
+> **Sponsorship:** None
 
 ## Phase 0: Setup & Infrastructure (Weeks 1-2)
 

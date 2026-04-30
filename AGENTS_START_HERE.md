@@ -2,7 +2,7 @@
 
 > **Author:** Mark LaPointe <mark@cloudbsd.org>
 >
-> **Sponsorship:** This project is not currently seeking or accepting sponsorships.
+> **Sponsorship:** None
 >
 > **Purpose:** This is the primary entry point for autonomous agents working on the BitchX IRC client modernization project. Read this file **first** before consuming any other documents in the `.plan/` directory.
 
