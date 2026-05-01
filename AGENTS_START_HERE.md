@@ -21,7 +21,7 @@ A **modern IRC client** written in Rust, rewritten from the legacy C BitchX code
 - **Feature parity** — All original BitchX functionality preserved and modernized
 
 The project involves:
-1. **Complete Rust rewrite** — Modern C++/Rust architecture replacing legacy C code
+1. **Complete Rust rewrite** — Modern Rust architecture replacing legacy C code
 2. **Security audit & fixes** — Address all critical vulnerabilities identified in the security audit
 3. **Protocol implementation** — Full IRC RFC compliance (RFC 1459, 2812, modern extensions)
 4. **DCC file transfers** — Secure file transfer with path traversal prevention
@@ -47,6 +47,7 @@ All plan documents are in the `.plan/` directory:
 | `7.0` | [`.plan/07-IRCv3-Integration.md`](.plan/07-IRCv3-Integration.md) | IRCv3 protocol extensions (SASL, message tags, A/V) |
 | `8.0` | [`.plan/08-WebUI-Integration.md`](.plan/08-WebUI-Integration.md) | Optional WebUI with TLS, authentication, WebSocket |
 | `9.0` | [`.plan/09-IRC-Networks-Servers.md`](.plan/09-IRC-Networks-Servers.md) | Network database, NickServ/ChanServ integration |
+| `10.0` | [`.plan/10-Plan-Review-Gaps.md`](.plan/10-Plan-Review-Gaps.md) | **Read this fourth** — gap analysis, missing features, corrections |
 
 ---
 
@@ -217,6 +218,7 @@ For a new agent, read the documents in this order:
 9. **[`.plan/07-IRCv3-Integration.md`](.plan/07-IRCv3-Integration.md)** — IRCv3 extensions (SASL, message tags, A/V)
 10. **[`.plan/08-WebUI-Integration.md`](.plan/08-WebUI-Integration.md)** — Optional WebUI with TLS, authentication, WebSocket
 11. **[`.plan/09-IRC-Networks-Servers.md`](.plan/09-IRC-Networks-Servers.md)** — Network database, NickServ/ChanServ integration
+12. **[`.plan/10-Plan-Review-Gaps.md`](.plan/10-Plan-Review-Gaps.md)** — Gap analysis, missing features, corrections
 
 ---
 

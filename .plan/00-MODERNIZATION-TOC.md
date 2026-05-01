@@ -23,6 +23,7 @@
 | 7 | [07-IRCv3-Integration.md](./07-IRCv3-Integration.md) | IRCv3 protocol extensions (SASL, tags, A/V) | ✅ DONE |
 | 8 | [08-WebUI-Integration.md](./08-WebUI-Integration.md) | Optional WebUI with TLS, auth, WebSocket | ✅ DONE |
 | 9 | [09-IRC-Networks-Servers.md](./09-IRC-Networks-Servers.md) | Network database, NickServ/ChanServ integration | ✅ DONE |
+| 10 | [10-Plan-Review-Gaps.md](./10-Plan-Review-Gaps.md) | Gap analysis, missing features, inconsistencies | ✅ DONE |
 
 ---
 
