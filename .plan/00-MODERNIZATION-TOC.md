@@ -21,6 +21,8 @@
 | 5 | [05-Code-Analysis.md](./05-Code-Analysis.md) | Detailed code structure analysis | ✅ DONE |
 | 6 | [06-IPC-Database-Schema.md](./06-IPC-Database-Schema.md) | IPC mechanism and data persistence | ✅ DONE |
 | 7 | [07-IRCv3-Integration.md](./07-IRCv3-Integration.md) | IRCv3 protocol extensions (SASL, tags, A/V) | ✅ DONE |
+| 8 | [08-WebUI-Integration.md](./08-WebUI-Integration.md) | Optional WebUI with TLS, auth, WebSocket | ✅ DONE |
+| 9 | [09-IRC-Networks-Servers.md](./09-IRC-Networks-Servers.md) | Network database, NickServ/ChanServ integration | ✅ DONE |
 
 ---
 

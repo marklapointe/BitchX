@@ -45,6 +45,8 @@ All plan documents are in the `.plan/` directory:
 | `5.0` | [`.plan/05-Code-Analysis.md`](.plan/05-Code-Analysis.md) | Source file inventory, code style issues |
 | `6.0` | [`.plan/06-IPC-Database-Schema.md`](.plan/06-IPC-Database-Schema.md) | SQLite schema, IPC design |
 | `7.0` | [`.plan/07-IRCv3-Integration.md`](.plan/07-IRCv3-Integration.md) | IRCv3 protocol extensions (SASL, message tags, A/V) |
+| `8.0` | [`.plan/08-WebUI-Integration.md`](.plan/08-WebUI-Integration.md) | Optional WebUI with TLS, authentication, WebSocket |
+| `9.0` | [`.plan/09-IRC-Networks-Servers.md`](.plan/09-IRC-Networks-Servers.md) | Network database, NickServ/ChanServ integration |
 
 ---
 
@@ -119,7 +121,19 @@ All plan documents are in the `.plan/` directory:
 - Configuration migration
 - State serialization
 
-### Phase 8: Security Hardening (Ongoing)
+### Phase 8: WebUI (Weeks 31-34)
+- Optional HTTP/WebSocket server with axum
+- TLS support with self-signed certificates
+- Username/password authentication
+- Session management with rate limiting
+
+### Phase 9: Services & Networks (Weeks 35-38)
+- Network database with default servers (Libera, OFTC, etc.)
+- NickServ auto-identify and registration
+- ChanServ integration (AKICK, access lists)
+- Credential storage with Argon2/AES-256-GCM
+
+### Phase 10: Security Hardening (Ongoing)
 - Fuzz testing
 - Penetration testing
 - Certificate pinning
@@ -201,6 +215,8 @@ For a new agent, read the documents in this order:
 7. **[`.plan/04-Migration-Phases.md`](.plan/04-Migration-Phases.md)** — Migration strategy
 8. **[`.plan/05-Code-Analysis.md`](.plan/05-Code-Analysis.md)** — Source file mapping
 9. **[`.plan/07-IRCv3-Integration.md`](.plan/07-IRCv3-Integration.md)** — IRCv3 extensions (SASL, message tags, A/V)
+10. **[`.plan/08-WebUI-Integration.md`](.plan/08-WebUI-Integration.md)** — Optional WebUI with TLS, authentication, WebSocket
+11. **[`.plan/09-IRC-Networks-Servers.md`](.plan/09-IRC-Networks-Servers.md)** — Network database, NickServ/ChanServ integration
 
 ---
 
